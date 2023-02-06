@@ -34,9 +34,6 @@ const signer = new Wallet(
 
 let contract = new Contract(process.env.PCS_ADDRESS.toString(), JSON.parse(abi.result), signer)
 
-const confirmContract = (abi) => {
-    return String.fromCharCode.apply(null, abi.index)
-}
 
 const checkResult = async (r) => {
     try {
